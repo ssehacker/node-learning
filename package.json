@@ -1,0 +1,23 @@
+{
+  "name": "node-learning",
+  "version": "0.0.1",
+  "description": "Minimalist multiroom chat server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssehacker/node-learning.git"
+  },
+  "author": "ssehacker@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssehacker/node-learning/issues"
+  },
+  "homepage": "https://github.com/ssehacker/node-learning#readme",
+  "dependencies": {
+    "mime": "^1.3.4",
+    "socket.io": "^1.4.5"
+  }
+}
